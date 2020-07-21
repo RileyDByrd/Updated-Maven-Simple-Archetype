@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>edu.neumont.se.byrd.riley</groupId>
+  <artifactId>Updated-Maven-Simple</artifactId>
+  <version>1.0-release</version>
+  <url>https://github.com/WhiteHatHacker1/Updated-Maven-Simple-Archetype</url>
+  <distributionManagement>
+    <downloadUrl>https://github.com/WhiteHatHacker1/Updated-Maven-Simple-Archetype/releases/download/v1.0-release/Updated-Maven-Simple-1.0-release.jar</downloadUrl>
+  </distributionManagement>
+</project>
