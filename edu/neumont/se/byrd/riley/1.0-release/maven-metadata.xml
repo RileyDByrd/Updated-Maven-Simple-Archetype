@@ -11,7 +11,7 @@
 	<snapshotVersions>
 	  <snapshotVersion>
 	    <extension>pom</extension>
-		<value>Updated-Maven-Simple-1.0-release.pom</value>
+		<value>1.0-release</value>
 		<updated>20200720220351</value>
 	  </snapshotVersion>
 	</snapshotVersions>
