@@ -10,5 +10,11 @@
       <version>1.0-release</version>
 	  <description>The Maven Simple Archetype updated to the latest Java version and JUnit version with required properties, driver class, and tester class.</description>
 	</archetype>
+<!--    <archetype>
+      <groupId>path.to.folder</groupId>
+      <artifactId>Updated-Maven-Simple-Archetype</artifactId>
+      <version>target</version>
+      <description>${artifactId}</description>
+    </archetype> -->
   </archetypes>
 </archetype-catalog>
