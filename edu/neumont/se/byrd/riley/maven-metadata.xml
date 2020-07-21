@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>edu.neumont.se.byrd.riley</groupId>
+  <artifactId>Updated-Maven-Simple</artifactId>
+  <versioning>
+    <!-- latest and release should refer to the latest version -->
+    <latest>1.0-release</latest>
+	<release>1.0-release</release>
+	<versions>
+	  <!-- put all versions here -->
+	  <version>1.0-release</version>
+	</versions>
+	<lastUpdated>20200720212059</lastUpdated>
+  </versioning>
+</metadata>
