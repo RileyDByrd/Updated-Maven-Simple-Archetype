@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>edu.neumont.se.byrd.riley</groupId>
+  <groupId>byrd.riley</groupId>
   <artifactId>Updated-Maven-Simple</artifactId>
   <versioning>
     <release>1.0-release</release>
     <versions>
       <version>1.0-release</version>
     </versions>
-    <lastUpdated>20200721061231</lastUpdated>
+    <lastUpdated>20200721062131</lastUpdated>
   </versioning>
 </metadata>

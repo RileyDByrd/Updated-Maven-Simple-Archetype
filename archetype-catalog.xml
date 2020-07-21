@@ -2,19 +2,12 @@
 <archetype-catalog xsi:schemaLocation="http://maven.apache.org/plugins/maven-archetype-plugin/archetype-catalog/1.0.0 http://maven.apache.org/xsd/archetype-catalog-1.0.0.xsd"
     xmlns="http://maven.apache.org/plugins/maven-archetype-plugin/archetype-catalog/1.0.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  
   <archetypes>
     <archetype>
-	  <groupId>edu.neumont.se.byrd.riley</groupId>
+      <groupId>byrd.riley</groupId>
       <artifactId>Updated-Maven-Simple</artifactId>
       <version>1.0-release</version>
-	  <description>The Maven Simple Archetype updated to the latest Java version and JUnit version with required properties, driver class, and tester class.</description>
-	</archetype>
-<!--    <archetype>
-      <groupId>path.to.folder</groupId>
-      <artifactId>Updated-Maven-Simple-Archetype</artifactId>
-      <version>target</version>
-      <description>${artifactId}</description>
-    </archetype> -->
+      <description>The Maven Simple Archetype updated to the latest Java version and JUnit version with required properties, driver class, and tester class.</description>
+    </archetype>
   </archetypes>
 </archetype-catalog>
